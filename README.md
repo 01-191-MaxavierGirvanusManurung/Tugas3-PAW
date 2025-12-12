@@ -340,7 +340,7 @@ Proyek ini dibuat untuk tujuan edukasi sebagai bagian dari mata kuliah Pemrogram
 ## 👨‍💻 Pembuat
 
 **Maxavier Girvanus Manurung**  
-**NIM: 01-191**  
+**NIM: 123140191**  
 Tugas 3 - Pemrograman Aplikasi Web
 
 ## 🙏 Acknowledgments
@@ -371,9 +371,3 @@ Tampilan grid menampilkan semua review yang telah dianalisis dengan indikator se
 - Lihat bagian troubleshooting di atas
 - Cek status server di `http://localhost:5000/api/health`
 
-## 🚀 Repository
-
-GitHub: [https://github.com/01-191-MaxavierGirvanusManurung/Tugas3-PAW](https://github.com/01-191-MaxavierGirvanusManurung/Tugas3-PAW) troubleshooting section or check the API health endpoint at `http://localhost:5000/api/health`.
-=======
-# Tugas3-PAW
->>>>>>> 97f4b51131093a706fbc1e7f56c57e56d092c22c
