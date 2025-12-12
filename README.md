@@ -186,6 +186,8 @@ GET /api/health
   "sentiment_analyzer": true,
   "gemini_configured": true
 }
+```
+
 ## 🛠️ Teknologi yang Digunakan
 
 ### Backend
@@ -251,6 +253,7 @@ GET /api/health
 
 ### Konfigurasi Database
 Edit file `backend/.env`:
+
 ```env
 DATABASE_URL=postgresql://username:password@host:port/database_name
 ```
